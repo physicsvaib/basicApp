@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">new app</string>
+    <string name="vegeta">Vegeta</string>
+    <string name="third">Hey Vegeta: \n
+        Vegeta is called the prince of all saiyans</string>
+    <string name="second">Vegeta Blue:\n  Vegeta obtained his blue god form.</string>
+</resources>
